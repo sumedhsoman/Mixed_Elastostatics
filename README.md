@@ -1,3 +1,3 @@
 # Mixed_Elastostatics
- Deal.ii based mixed elastostatics codes
- Currently only has a slightly modified version of a Deal.ii tutorial code (Step-22)
+ Deal.ii based mixed elastostatics codes.
+ Currently only has slightly modified versions of Deal.ii tutorial codes (Step-22 and Step-8).
